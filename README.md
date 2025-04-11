@@ -10,9 +10,10 @@ https://colab.research.google.com/drive/1MJRwJptHBE9W1KaQWtMJnp__F3KnTBCi?usp=dr
 혹시모를 코드 작성도 존재
 
 
-
+# 텐서플로 다운받아.
 !pip install tensorflow keras numpy pillow
 
+# 적용
 import numpy as np
 from tensorflow import keras
 from tensorflow.keras import layers
