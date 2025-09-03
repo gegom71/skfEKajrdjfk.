@@ -1,13 +1,28 @@
 # skfEKajrdjfk.(MNIST TSET)
 
 
-이 앞 대충 짠 코드 존재
+그냥 이사이트 들어가서 쓰셈
 https://colab.research.google.com/drive/1MJRwJptHBE9W1KaQWtMJnp__F3KnTBCi?usp=drive_link
 
 
 
 
+
 혹시모를 코드 작성도 존재
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # 텐서플로 다운받아.
