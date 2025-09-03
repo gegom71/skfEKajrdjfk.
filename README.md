@@ -1,7 +1,7 @@
 # skfEKajrdjfk.(MNIST TSET)
 
 
-#그냥 이사이트 들어가서 쓰셈
+그냥 코랩 사이트 들어가서 쓰셈
 
 https://colab.research.google.com/drive/1MJRwJptHBE9W1KaQWtMJnp__F3KnTBCi?usp=drive_link
 
