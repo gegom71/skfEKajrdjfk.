@@ -9,7 +9,7 @@ https://colab.research.google.com/drive/1MJRwJptHBE9W1KaQWtMJnp__F3KnTBCi?usp=dr
 
 
 
-#혹시모를 코드 작성도 존재
+혹시모를 코드 작성도 존재
 그냥 파이썬받고 작성하면 안될수도있음 구글코랩 기준으로 작성함
 
 
