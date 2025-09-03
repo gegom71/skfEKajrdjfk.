@@ -1,15 +1,16 @@
 # skfEKajrdjfk.(MNIST TSET)
 
 
-그냥 이사이트 들어가서 쓰셈
+#그냥 이사이트 들어가서 쓰셈
+
 https://colab.research.google.com/drive/1MJRwJptHBE9W1KaQWtMJnp__F3KnTBCi?usp=drive_link
 
 
 
 
 
-혹시모를 코드 작성도 존재
-
+#혹시모를 코드 작성도 존재
+그냥 파이썬받고 작성하면 안될수도있음 구글코랩 기준으로 작성함
 
 
 
